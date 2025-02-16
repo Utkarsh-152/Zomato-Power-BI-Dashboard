@@ -16,19 +16,19 @@ The Zomato Data Analysis Dashboard consists of three main sections:
 
 ### 1. Dashboard Home
 
-Dashboard Home
+![Dashboard Home](Screenshots/1.png)
 
 ### 2. Map Based Visualizations
 
-Map Based Visualizations
+![Map Based Visualizations](Screenshots/4.png)
 
 ### 3. Country Wise Comparison of KPIs
 
-Country Wise Comparison
+![Country Wise Comparison](Screenshots/2.png)
 
 ### 4. Restaurants Analysis Dashboard
 
-Restaurants Analysis
+![Restaurants Analysis](Screenshots/3.png)
 
 ## Key Features
 
@@ -38,18 +38,16 @@ Restaurants Analysis
 - Price range distribution of restaurants
 - Comprehensive restaurant data table
 
-
 ## Key Insights
 
 - Total Restaurants: 9,551
 - Total Votes: 1.50M
 - Total Cuisines: 247
-- Average Cost for Two: \$10.09
+- Average Cost for Two: $10.09
 - Only 12.2% of restaurants offer table booking
 - 74.39% of restaurants provide online delivery
 - Asia has the highest number of cuisines available
 - India has the highest number of user votes
-
 
 ## How to Use
 
