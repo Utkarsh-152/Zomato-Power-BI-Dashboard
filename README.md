@@ -58,7 +58,7 @@ The Zomato Data Analysis Dashboard consists of three main sections:
 
 ## Data Source
 
-The data used in this dashboard is sourced from Zomato. Please refer to Zomato's terms of use for data usage guidelines.
+The data used in this dashboard is uploaded.
 
 ## Created On
 
